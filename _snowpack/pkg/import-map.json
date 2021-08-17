@@ -1,0 +1,16 @@
+{
+  "imports": {
+    "classnames": "./classnames.js",
+    "fp-ts/Either": "./fp-ts/Either.js",
+    "fp-ts/lib/function": "./fp-ts/lib/function.js",
+    "highlight.js/lib/core": "./highlightjs/lib/core.js",
+    "highlight.js/lib/languages/xml": "./highlightjs/lib/languages/xml.js",
+    "io-ts": "./io-ts.js",
+    "overmind": "./overmind.js",
+    "overmind-react": "./overmind-react.js",
+    "path-to-regexp": "./path-to-regexp.js",
+    "react": "./react.js",
+    "react-dom": "./react-dom.js",
+    "uswds": "./uswds.js"
+  }
+}
